@@ -126,3 +126,5 @@ Networking que pode gerar ótimas oportunidades.
 -   [Devops](https://aws.amazon.com/pt/devops/what-is-devops/)  
   – É um conjunto de práticas, ferramentas e uma filosofia cultural que automatizam e integram os processos entre o desenvolvimento de software e as equipes de TI.
   - [Roadmap](https://roadmap.sh/devops)
+
+...
